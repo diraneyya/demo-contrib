@@ -42,3 +42,6 @@ TEST SIGNED COMMIT
 SIGNED COMMIT  
 Andrey Kravchuk   
 Kravchuk Andrey   
+
+
+This is a test link to an issue #1  
